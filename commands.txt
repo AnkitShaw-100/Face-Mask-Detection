@@ -1,0 +1,13 @@
+to activate a virtual env
+
+IF ALREADY EXISTING: .\.venv\Scripts\activate
+
+IF new
+C:\Users\Ankit\AppData\Local\Programs\Python\Python312\pthon.exe -m venv .venv
+activate
+
+
+Commands for running essentail files
+python detect_mask_video.py (main)
+python convert_model.py
+python train_mask_detector.py
