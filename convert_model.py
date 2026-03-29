@@ -8,4 +8,4 @@ print("[INFO] Saving in .keras format...")
 
 model.save("mask_detector.keras")
 
-print("✅ Done! Model converted successfully.")
+print("Done! Model converted successfully.")
